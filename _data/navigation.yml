@@ -1,0 +1,23 @@
+
+
+# main links
+main:
+  - title: "First Section"
+    url: /docs/first-first-child/
+
+
+# documentation links
+docs:
+  - title: First Section
+    children:
+      - title: "First child"
+        url: /docs/first-first-child/
+      - title: "Second Child"
+        url: /docs/first-second-child/
+  - title: Second Section
+    children:
+      - title: "First child"
+        url: /docs/second-first-child/
+      - title: "Second Child"
+        url: /docs/second-second-child/
+  
